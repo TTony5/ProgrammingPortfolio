@@ -3,8 +3,6 @@
 #if it finds it, return the number, else return -1
 #Assume Sorted Tree
 
-#Create searchItem to compare answer
-
 from UtilityFiles import binarySearch, searchItem
 
 if __name__=='__main__':
