@@ -1,3 +1,4 @@
+#Create searchItem to compare answer
 def searchItem(items, target):
     for item in range(len(items)):
         if items[item] == target:
